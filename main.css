@@ -17,6 +17,7 @@ body {
 .page-title {
   font-family: Courier, Candara, Lucida Bright;
   font-size: 70px;
+  font-weight: 300;
   text-align: center;
 }
 
