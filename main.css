@@ -31,4 +31,5 @@ body {
 .gallery-item {
   margin: 20px;
   border: 10px solid #FAF7EB;
+  padding-bottom: 0px;
 }
