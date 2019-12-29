@@ -7,17 +7,12 @@ html, body {
   line-height: 1.5;
 }
 
-@keyframes animatedBackground {
-  from {background-image: url("https://user-images.githubusercontent.com/59292377/71555462-a0873600-29fa-11ea-9aff-aeb464f899d1.png");}
-  to {background-image: url("https://user-images.githubusercontent.com/59292377/71555461-9e24dc00-29fa-11ea-84be-7709bdb47e9a.png");}
-}
-
 body {
  font-family: Courier, Candara, Lucida Bright;
+ background-image: url("https://user-images.githubusercontent.com/59292377/71555461-9e24dc00-29fa-11ea-84be-7709bdb47e9a.png");
  background-position: center top;
  background-size: cover;
  margin: 0;
- animation: animatedBackground;
 }
 
 .page-title {
